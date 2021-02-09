@@ -1,0 +1,3 @@
+Este projeto foi desenvolvido através do curso [Entity Framework Core + Asp.NET Core Web API + SQL Server](https://www.udemy.com/course/efcore-aspnetcore-webapi-sqlserver/).
+
+Neste projeto foi abordado conceitos do ORM Entity Framework, utilizando as entidades Heroi, Batalha, HeroiBatalha que e a entidade composta de n para n das entidades Batalha e Heroi, Identidade secreta e arma foi criado as tabelas e seus respectivos relacionamentos através deste ORM utilizando o banco de dados Sql Server
